@@ -19,5 +19,4 @@ print('sorted()使表中元素按字母顺序排列:',end=""); print(sorted(moto
 # .sort()  此方法修改表内元素顺序 ，若想不修改的按顺序输出可以使用 sorted(x)
 # .sort(reverse=True)可以按字母反序排列表中的元素
 print("len()返回列表长度："+str(len(moto_car)))
-
-#测试下pycharm的git是否成功？
+#测试

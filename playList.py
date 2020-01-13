@@ -20,4 +20,4 @@ print('sorted()使表中元素按字母顺序排列:',end=""); print(sorted(moto
 # .sort(reverse=True)可以按字母反序排列表中的元素
 print("len()返回列表长度："+str(len(moto_car)))
 
-#测试下pycharm的git是否成功
+#测试下pycharm的git是否成功？

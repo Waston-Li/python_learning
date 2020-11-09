@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4c48f269-c04a-48ed-9fbe-e28c56ac0e2d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -13,8 +32,14 @@
       <change beforePath="$PROJECT_DIR$/模块.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/模块测试.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/输入输出.py" beforeDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/tensor_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaseOP.py" afterDir="false" />
+>>>>>>> origin/master
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +68,7 @@
     <expand />
     <select />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -100,6 +126,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> origin/master
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -122,6 +150,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/playList.py" root0="SKIP_INSPECTION" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -164,14 +193,23 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectId" id="1d1vgA2dpAGO8E50GcczeljCm73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> origin/master
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/bin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/基础" />
@@ -191,6 +229,10 @@
   </component>
   <component name="RunManager" selected="Python.BaseOP">
     <configuration name="模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.tensor_test">
+    <configuration name="分数表示" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +245,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/分数表示.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,51 +302,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/输入输出.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="分数表示" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/分数表示.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+=======
     <configuration name="向量表示及实现带重复数的排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,7 +319,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/输入输出.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/向量表示及实现带重复数的排列.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +332,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="分数表示" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
     <configuration name="向量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,7 +349,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/分数表示.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/向量.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +362,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="playList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+<<<<<<< HEAD
+    <configuration name="向量表示及实现带重复数的排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="matplotlib绘图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,7 +379,63 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/向量表示及实现带重复数的排列.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib绘图.py" />
+>>>>>>> origin/master
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="向量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="playList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/向量.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playList.py" />
+>>>>>>> origin/master
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensor_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensor_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,10 +446,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.BaseOP" />
         <item itemvalue="Python.模块" />
         <item itemvalue="Python.Ex" />
         <item itemvalue="Python.playList" />
+=======
+        <item itemvalue="Python.tensor_test" />
+        <item itemvalue="Python.BaseOP" />
+        <item itemvalue="Python.playList" />
+        <item itemvalue="Python.Ex" />
+        <item itemvalue="Python.matplotlib绘图" />
+>>>>>>> origin/master
       </list>
     </recent_temporary>
   </component>
@@ -406,8 +492,19 @@
       <workItem from="1588990882680" duration="139000" />
       <workItem from="1589768138610" duration="3000" />
       <workItem from="1589982340692" duration="11000" />
+<<<<<<< HEAD
       <workItem from="1589982491632" duration="6432000" />
       <workItem from="1604909416035" duration="2119000" />
+=======
+      <workItem from="1589982491632" duration="5740000" />
+      <workItem from="1591605527979" duration="48000" />
+      <workItem from="1591607601263" duration="601000" />
+      <workItem from="1591613932619" duration="72000" />
+      <workItem from="1591685880026" duration="1304000" />
+      <workItem from="1591688964741" duration="7111000" />
+      <workItem from="1591856182065" duration="91000" />
+      <workItem from="1591867991034" duration="239000" />
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00001" summary="first modify">
       <created>1578902586596</created>
@@ -433,9 +530,12 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="36612000" />
   </component>
+=======
+>>>>>>> origin/master
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -445,6 +545,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="530" y="1103" width="1361" height="877" extended-state="0" />
     <editor active="true" />
@@ -474,8 +575,10 @@
       <window_info anchor="right" x="0" y="0" width="300" height="677" id="Documentation" order="5" side_tool="true" weight="0.06974981" />
     </layout>
   </component>
+=======
+>>>>>>> origin/master
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -487,11 +590,24 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first modify" />
     <MESSAGE value="测试pycharm中的git" />
     <option name="LAST_COMMIT_MESSAGE" value="测试pycharm中的git" />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/移位法.py" />
     <entry file="file://$USER_HOME$/Downloads/RNG.py" />
@@ -587,5 +703,58 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="WindowStateProjectService">
+    <state x="771" y="309" width="424" height="480" key="FileChooserDialogImpl" timestamp="1591868227613">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="309" width="424" height="480" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1591868227613" />
+    <state width="1346" height="258" key="GridCell.Tab.0.bottom" timestamp="1591703482838">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="258" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591703482838" />
+    <state width="1346" height="258" key="GridCell.Tab.0.center" timestamp="1591703482837">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="258" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591703482837" />
+    <state width="1346" height="258" key="GridCell.Tab.0.left" timestamp="1591703482837">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="258" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591703482837" />
+    <state width="1346" height="258" key="GridCell.Tab.0.right" timestamp="1591703482838">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="258" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591703482838" />
+    <state width="1346" height="319" key="GridCell.Tab.1.bottom" timestamp="1591695392860">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="319" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591695392860" />
+    <state width="1346" height="319" key="GridCell.Tab.1.center" timestamp="1591695392859">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="319" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591695392859" />
+    <state width="1346" height="319" key="GridCell.Tab.1.left" timestamp="1591695392859">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="319" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591695392859" />
+    <state width="1346" height="319" key="GridCell.Tab.1.right" timestamp="1591695392860">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1346" height="319" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591695392860" />
+    <state x="147" y="97" key="SettingsEditor" timestamp="1591868230247">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="147" y="97" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1591868230247" />
+    <state x="598" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1591613934691">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="598" y="384" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591613934691" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learning$Ex.coverage" NAME="Ex Coverage Results" MODIFIED="1591605582784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$tensor_test.coverage" NAME="tensor_test Coverage Results" MODIFIED="1591868314924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$playList.coverage" NAME="playList Coverage Results" MODIFIED="1591605603435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$BaseOP.coverage" NAME="BaseOP Coverage Results" MODIFIED="1591688887881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> origin/master
   </component>
 </project>

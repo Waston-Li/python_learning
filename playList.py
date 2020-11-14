@@ -5,6 +5,9 @@ lis1[0]='修改成功'; print(lis1)
 
 lis1.append('.append()在列表末尾添加新元素'); print(lis1)
 lis1+=['末尾元素'] #+=添加元素,或拼接列表
+#列表拼接列表
+# extend() 函数用于在列表末尾一次性追加另一个序列中的多个值（用新列表扩展原来的列表）
+# list.extend(seq)
 
 del lis1[2]; print("使用del删除元素，del也可删除 任何位置  的列表元素，只要知道其索引")
 print("使用.pop()弹出列表末尾最后一个元素，也就是说先使用，后删除这个元素:"+lis1.pop())
@@ -23,3 +26,4 @@ print("len()返回列表长度："+str(len(moto_car)))
 print('.insert(索引，值)可以在列表的任何位置添加新元素，给出索引和值')
 moto_car.insert(0,'ducati')
 print(moto_car)
+

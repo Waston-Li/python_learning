@@ -6,6 +6,7 @@
 #
 
 # 斐波那契数列
+from tqdm import tqdm
 
 a,b=0,1
 while b<20:
@@ -34,7 +35,7 @@ else:
 # Python for循环可以遍历任何序列的项目，如一个列表或者一个字符串。
 print('以下for循环内容：\n')
 languages=['C','C++','Python',2,'Java']
-for i in languages:
+for i in tqdm(languages):
     if(i==2):
         break
     else:

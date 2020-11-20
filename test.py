@@ -1,21 +1,21 @@
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+from typing import List
 class Solution:
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        def dfs(L1, L2, i):
-            if not L1 and not L2 and not i: return None
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        hs=set()
+        n=len(s)
+        r,ans=-1,0
+        for i in range(n):
+            if i!=0:
+                hs.remove(s[i-1])
+            while r+1<n and s[r+1] not in hs:
+                hs.add(s[r+1])
+                r+=1
 
-            s = (L1.val if L1 else 0) + (L2.val if L2 else 0) + i
-
-            p = ListNode(s % 10)
-
-            p.next = dfs(L1.next if L1 else 0, L2.next if L2 else 0, s // 10)
-
-            return p
-
-        return dfs(l1, l2, 0)
+            ans=max(ans,r-i+1)
+        return ans
 
 
+
+
+a=Solution().lengthOfLongestSubstring("letter")
+print(a)
